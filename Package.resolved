@@ -12,10 +12,10 @@
     {
       "identity" : "randomcolorswift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/EthanLipnik/RandomColorSwift.git",
+      "location" : "https://github.com/onevcat/RandomColorSwift.git",
       "state" : {
-        "revision" : "cb118928dfd40baaa31dc1bd87c97599bcf86d75",
-        "version" : "2.0.1"
+        "revision" : "ab01c6eff99f40c5e23ffcb957eb3971f937f106",
+        "version" : "2.0.0"
       }
     }
   ],
